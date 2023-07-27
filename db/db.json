@@ -17,7 +17,7 @@
         "details": ""
       },
       {
-        "id": "1",
+        "id": "3",
         "thumbnail": "/images/thumbnails/test.jpg",
         "description": "Description of project",
         "fullImage": "",
@@ -44,6 +44,15 @@
       },
       {
         "id": "6",
+        "thumbnail": "/images/thumbnails/test.jpg",
+        "description": "Description of project",
+        "fullImage": "",
+        "title": "Project 6",
+        "details": ""
+
+      },
+         {
+        "id": "7",
         "thumbnail": "/images/thumbnails/test.jpg",
         "description": "Description of project",
         "fullImage": "",
